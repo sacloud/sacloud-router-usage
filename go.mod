@@ -6,7 +6,7 @@ require (
 	github.com/itchyny/gojq v0.12.9
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.4.0
-	github.com/sacloud/iaas-api-go v1.6.0
+	github.com/sacloud/iaas-api-go v1.9.1
 )
 
 require (
@@ -14,14 +14,14 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.1 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
 	github.com/itchyny/timefmt-go v0.1.4 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/sacloud/api-client-go v0.2.3 // indirect
-	github.com/sacloud/go-http v0.1.3 // indirect
-	github.com/sacloud/packages-go v0.0.6 // indirect
+	github.com/sacloud/api-client-go v0.2.7 // indirect
+	github.com/sacloud/go-http v0.1.5 // indirect
+	github.com/sacloud/packages-go v0.0.8 // indirect
 	go.uber.org/ratelimit v0.2.0 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/crypto v0.7.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
 )
