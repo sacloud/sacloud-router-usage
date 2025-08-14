@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.2.1](https://github.com/sacloud/sacloud-router-usage/compare/v0.2.0...v0.2.1) - 2025-08-14
+- ci: bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/82
+
 ## [v0.2.0](https://github.com/sacloud/sacloud-router-usage/compare/v0.1.0...v0.2.0) - 2025-08-13
 - golangci-lint v2 by @yamamoto-febc in https://github.com/sacloud/sacloud-router-usage/pull/73
 - update actions - use go-version-file by @yamamoto-febc in https://github.com/sacloud/sacloud-router-usage/pull/74
