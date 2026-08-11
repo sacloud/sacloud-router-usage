@@ -1,5 +1,18 @@
 # Changelog
 
+## [v0.3.0](https://github.com/sacloud/sacloud-router-usage/compare/v0.2.0...v0.3.0) - 2026-08-11
+
+- ci: bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/82
+- docker image 更新停止 by @shyouhei in https://github.com/sacloud/sacloud-router-usage/pull/106
+- pin actions by @tokuhirom in https://github.com/sacloud/sacloud-router-usage/pull/107
+- refactor: migrate from iaas-api-go to sacloud-sdk-go by @yamamoto-febc in https://github.com/sacloud/sacloud-router-usage/pull/108
+- ci: bump actions/checkout from 5.1.0 to 7.0.1 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/97
+- ci: bump actions/setup-go from 5.6.0 to 7.0.0 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/88
+- go: bump github.com/sacloud/go-otelsetup from 0.5.0 to 0.8.0 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/98
+- go: bump github.com/sacloud/go-otelsetup from 0.8.0 to 0.9.0 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/111
+- ci: bump goreleaser/goreleaser-action from 6.4.0 to 7.2.3 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/110
+- ci: bump crazy-max/ghaction-import-gpg from 6.3.0 to 7.0.0 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/109
+
 ## [v0.2.0](https://github.com/sacloud/sacloud-router-usage/compare/v0.1.0...v0.2.0) - 2025-08-13
 - golangci-lint v2 by @yamamoto-febc in https://github.com/sacloud/sacloud-router-usage/pull/73
 - update actions - use go-version-file by @yamamoto-febc in https://github.com/sacloud/sacloud-router-usage/pull/74
