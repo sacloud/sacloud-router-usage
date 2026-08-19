@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.3.1](https://github.com/sacloud/sacloud-router-usage/compare/v0.3.0...v0.3.1) - 2026-08-19
+
+- s/スイッチ\+ルータ/ルータ+スイッチ/g とする。 by @tokuhirom in https://github.com/sacloud/sacloud-router-usage/pull/114
+
 ## [v0.3.0](https://github.com/sacloud/sacloud-router-usage/compare/v0.2.0...v0.3.0) - 2026-08-11
 
 - ci: bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/sacloud/sacloud-router-usage/pull/82
